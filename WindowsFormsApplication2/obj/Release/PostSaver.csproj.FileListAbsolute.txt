@@ -1,0 +1,8 @@
+c:\users\boris\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+c:\users\boris\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\boris\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\PostSaver.csproj.GenerateResource.Cache
+c:\users\boris\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\PostSaver.exe.config
+c:\users\boris\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\PostSaver.exe
+c:\users\boris\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\PostSaver.pdb
+c:\users\boris\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\PostSaver.exe
+c:\users\boris\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\PostSaver.pdb
